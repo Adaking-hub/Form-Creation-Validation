@@ -1,3 +1,6 @@
+// Fetch data from an API and display it in a list
+// This script fetches user data from a public API and displays the names in a list format
+
 async function fetchUserData() {
     const apiUrl = "https://jsonplaceholder.typicode.com/users";
 
